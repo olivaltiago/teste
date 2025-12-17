@@ -1,0 +1,883 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="rtp1.pt" group-title="PORTUGAL",0001 - RTP 1
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jtKZECxo82j70vdS3wLnxTk
+#EXTINF:-1 tvg-id="rtp1.pt" group-title="PORTUGAL",0002 - RTP 1 (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jhNmRjIZX9jsHoKQbZeGIMY
+#EXTINF:-1 tvg-id="rtp1.pt" group-title="VODAFONE FHD",0003 - RTP 1 (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jotd6QtNIZm7oK8BDRAZnTo
+#EXTINF:-1 tvg-id="rtp1.pt" group-title="PORTUGAL LOW",0004 - RTP 1 (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jlWfZFDCCHuDP5wwV5R3P1M
+#EXTINF:-1 tvg-id="rtp2.pt" group-title="PORTUGAL",0005 - RTP 2
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jjAjjDyXNaQv7wak3t5pujU
+#EXTINF:-1 tvg-id="rtp2.pt" group-title="PORTUGAL",0006 - RTP 2 (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-juAY1DSK2Wxk_HJzOD2rc_k
+#EXTINF:-1 tvg-id="rtp2.pt" group-title="VODAFONE FHD",0007 - RTP 2 (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jicT3Q7PxOl9_ML93Jq9xYA
+#EXTINF:-1 tvg-id="rtp2.pt" group-title="PORTUGAL LOW",0008 - RTP 2 (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jlbu-H4YIxdPPqrBVyIFeQ0
+#EXTINF:-1 tvg-id="sic.pt" group-title="PORTUGAL",0009 - SIC
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jjY-kGVylRkkf4hs4C0tPzU
+#EXTINF:-1 tvg-id="sic.pt" group-title="PORTUGAL",0010 - SIC (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jvSwW2lOp4lsHkSO79dmnmY
+#EXTINF:-1 tvg-id="rtp2.pt" group-title="VODAFONE FHD",0011 - SIC (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jn3jnCmneB7dA9VGIjx9qvs
+#EXTINF:-1 tvg-id="sic.pt" group-title="PORTUGAL LOW",0012 - SIC (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jtedlB9-sEQ4u9KtVq9clSM
+#EXTINF:-1 tvg-id="TVI.pt" group-title="PORTUGAL",0013 - TVI (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jtJH3n2RYVeycHwbgr6I7eI
+#EXTINF:-1 tvg-id="TVI.pt" group-title="PORTUGAL",0014 - TVI
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jtJt68rrysRWsnSqk1YxaY4
+#EXTINF:-1 tvg-id="TVI.pt" group-title="PORTUGAL",0015 - TVI (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jm1W_O0CZ0dRlDCOV0IAE0M
+#EXTINF:-1 tvg-id="TVI.pt" group-title="VODAFONE FHD",0016 - TVI (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jtJH3n2RYVeycHwbgr6I7eI
+#EXTINF:-1 tvg-id="TVI.pt" group-title="PORTUGAL LOW",0017 - TVI (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jkCH-Papc8HSqxcUciyMhnE
+#EXTINF:-1 tvg-id="sicnoticias.pt" group-title="PORTUGAL",0018 - SIC NOTICIAS (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jlP2lrPwid7nifwVPRQLt8w
+#EXTINF:-1 tvg-id="sicnoticias.pt" group-title="PORTUGAL",0019 - SIC NOTICIAS
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jv9-LX8xVhCg-ngY-WKDMXs
+#EXTINF:-1 tvg-id="sicnoticias.pt" group-title="PORTUGAL",0020 - SIC NOTICIAS (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jqfwY8cDQJZvptRCPTz31fY
+#EXTINF:-1 tvg-id="sicnoticias.pt" group-title="VODAFONE FHD",0021 - SIC NOTICIAS (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jlP2lrPwid7nifwVPRQLt8w
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0022 - SIC NOTICIAS (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jgQ9RCZ_bVr4LUJb4lGLEaM
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0023 - RTP 3 (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jiyUnZiXyZUnEaKr2eoGx1c
+#EXTINF:-1 tvg-id="RTP3.pt" group-title="VODAFONE FHD",0024 - RTP NOTICIAS
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jullybX7eN35BsLKMS7RgvM
+#EXTINF:-1 tvg-id="CMTV.pt" group-title="PORTUGAL",0025 - CMTV (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jvc2f014gIDWX8kAcgYfcTo
+#EXTINF:-1 tvg-id="CMTV.pt" group-title="PORTUGAL",0026 - CMTV
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jmaNsO1zzCYGIg5EX-GLHvI
+#EXTINF:-1 tvg-id="CMTV.pt" group-title="PORTUGAL",0027 - CMTV (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jkZWC4d1ehT-4Kma-W-XbDo
+#EXTINF:-1 tvg-id="CMTV.pt" group-title="VODAFONE FHD",0028 - CMTV (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jvc2f014gIDWX8kAcgYfcTo
+#EXTINF:-1 tvg-id="CMTV.pt" group-title="PORTUGAL LOW",0029 - CMTV (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jgB0Otx-cfyYbN1AeILn8CY
+#EXTINF:-1 tvg-id="CNNPortugal.pt" group-title="PORTUGAL",0030 - CNN PORTUGAL
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jsRnTlfr2MUVQwf5LP3Bkcg
+#EXTINF:-1 tvg-id="CNNPortugal.pt" group-title="PORTUGAL",0031 - CNN PORTUGAL (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-joAxz3pcqYfgyJOGa46DeU4
+#EXTINF:-1 tvg-id="CMTV.pt" group-title="VODAFONE FHD",0032 - CNN PORTUGAL (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jgwxfgNbgaVrOmzgZMz3SVs
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0033 - CNN PORTUGAL (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jkp7EQ6svwi2FaqygI7_uIk
+#EXTINF:-1 tvg-id="CNNPortugal.pt" group-title="PORTUGAL",0034 - CNN
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jkHipYZDQv5zCZzYuaZkmnU
+#EXTINF:-1 tvg-id="sicmulher.pt" group-title="PORTUGAL",0035 - SIC MULHER (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jpiAVGMYFqV3r2DkjaqcvGg
+#EXTINF:-1 tvg-id="sicmulher.pt" group-title="PORTUGAL",0036 - SIC MULHER
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jihK229Ct0SQR2XmeoYoYcI
+#EXTINF:-1 tvg-id="sicmulher.pt" group-title="PORTUGAL",0037 - SIC MULHER (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jpXYUZVj-wQGb15PT4qbqjg
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0038 - SIC MULHER (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jmTwskNkSXupY9PJLEEMxQ8
+#EXTINF:-1 tvg-id="sicradical.pt" group-title="PORTUGAL",0039 - SIC RADICAL (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jqdGnH2QyC6enROvrpSmtpI
+#EXTINF:-1 tvg-id="sicradical.pt" group-title="PORTUGAL",0040 - SIC RADICAL
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jqhmNOEs2D6tEivm3wcylcs
+#EXTINF:-1 tvg-id="sicradical.pt" group-title="VODAFONE FHD",0041 - SIC RADICAL (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jqdGnH2QyC6enROvrpSmtpI
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0042 - SIC RADICAL (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jvxp1FR2284W7qi5CIxD2Co
+#EXTINF:-1 tvg-id="SicCaras.pt" group-title="PORTUGAL",0043 - SIC CARAS (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jgUJ99oSKYkIXwqcBRAV5fA
+#EXTINF:-1 tvg-id="SicCaras.pt" group-title="PORTUGAL",0044 - SIC CARAS
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-juFb3mB_5ldi1V5Bl9qrtAc
+#EXTINF:-1 tvg-id="SicCaras.pt" group-title="VODAFONE FHD",0045 - SIC CARAS (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jgUJ99oSKYkIXwqcBRAV5fA
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0046 - SIC CARAS (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jhVlG70jUlVbD1J8cDOnFSg
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL",0047 - PORTO CANAL (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jrOr4EOeRFOah3io8efYCV8
+#EXTINF:-1 tvg-id="PortoCanal.pt" group-title="PORTUGAL",0048 - PORTO CANAL
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jrEq94l2CUBZovtAPqFAwsM
+#EXTINF:-1 tvg-id="ext" group-title="VODAFONE FHD",0049 - PORTO CANAL (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jrOr4EOeRFOah3io8efYCV8
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0050 - PORTO CANAL (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jmx9Y18spN45qzxeO2afapg
+#EXTINF:-1 tvg-id="Canal11.pt" group-title="VODAFONE FHD",0051 - CANAL 11
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jpxbkI6VXF202kOiATd8YU8
+#EXTINF:-1 tvg-id="Canal11.pt" group-title="PORTUGAL | SPORTS",0052 - CANAL 11
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jpxbkI6VXF202kOiATd8YU8
+#EXTINF:-1 tvg-id="Canal11.pt" group-title="PORTUGAL | SPORTS",0053 - CANAL 11 (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jhfQ5iElMVHyuHBdZT0IxhA
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0054 - CANAL 11 (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jiiBr7Gkq-f_SmO9GFrsSP0
+#EXTINF:-1 tvg-id="TVIReality.pt" group-title="PORTUGAL",0055 - TVI REALITY (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jrZ-TgTOR_GvZ8EuCzo_KWc
+#EXTINF:-1 tvg-id="TVIReality.pt" group-title="PORTUGAL",0056 - TVI REALITY
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jj1ZTMUd_DEzXFpQrQxctgM
+#EXTINF:-1 tvg-id="TVIReality.pt" group-title="PORTUGAL",0057 - TVI REALITY (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jqv6zMY4PsGl3FyCHgtrLwk
+#EXTINF:-1 tvg-id="TVIFiccao.pt" group-title="PORTUGAL",0058 - V+ TVI
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jk9WgqYnmObki6mV00H1Opw
+#EXTINF:-1 tvg-id="TVIFiccao.pt" group-title="PORTUGAL",0059 - V+ TVI (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jnS8VhgOzy0BdC9Ldpu8znU
+#EXTINF:-1 tvg-id="TVIFiccao.pt" group-title="VODAFONE FHD",0060 - V+ TVI (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jnSH_Pma9q_EeKOmMCKYJ88
+#EXTINF:-1 tvg-id="TVIFiccao.pt" group-title="PORTUGAL LOW",0061 - V+ TVI (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jhFHw1JA4a2yoaC8pTgLmZI
+#EXTINF:-1 tvg-id="rtpmemoria.pt" group-title="VODAFONE FHD",0062 - RTP MEMORIA
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jqCJJKVClrgnGKRkjW_YMrs
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0063 - RTP MEMORIA (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jvTwM488kKTGniH1L-3n43g
+#EXTINF:-1 tvg-id="CanalQ.pt" group-title="PORTUGAL",0064 - CANAL Q
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jl4-5QNTjDih-896X04Xi3g
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL",0065 - GLOBO (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jlfv8SCHw9RFXRQQG1IWYsY
+#EXTINF:-1 tvg-id="TVGlobo.pt" group-title="PORTUGAL",0066 - GLOBO
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jj-V3cA-VfCAKonCCxJAd1c
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL",0067 - GLOBO (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jnEokkK_-FNHSy5b7zAwBcc
+#EXTINF:-1 tvg-id="ext" group-title="VODAFONE FHD",0068 - GLOBO (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jlfv8SCHw9RFXRQQG1IWYsY
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0069 - GLOBO (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-juwkgvLN-Wgp10IV02SDZaE
+#EXTINF:-1 tvg-id="GloboNews.pt" group-title="PORTUGAL",0070 - GLOBO NOW
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jjoAEmiYxppcdH2Ywhx-eoE
+#EXTINF:-1 tvg-id="GloboNews.pt" group-title="PORTUGAL",0071 - GLOBO NOW (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jvOYLLTbjHi-Eg9wGskRB_4
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0072 - GLOBO NOW (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jvS-xal-4A-KCwdMPDvXnwE
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL",0073 - TV RECORD (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jv0lVpt8dGKzWDMDCpNOWTY
+#EXTINF:-1 tvg-id="TVRecord.es" group-title="PORTUGAL",0074 - TV RECORD
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jtMlnUw--QFoyF6VuZSOXW4
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL",0075 - TV RECORD (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-juXOcmp9SyvXcp5hMGSfJ3c
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0076 - TV RECORD (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jhmYgnmjC5Ru3N7rRExZxRA
+#EXTINF:-1 tvg-id="sporttv1.pt" group-title="VODAFONE FHD",0077 - SPORT TV 1 (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jtg9QAiR0CZHhVeGbBCi2A8
+#EXTINF:-1 tvg-id="sporttv1.pt" group-title="PORTUGAL | SPORTS",0078 - SPORT TV 1 (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jtPoT-z0YuMiCzlpIiy0SDM
+#EXTINF:-1 tvg-id="sporttv1.pt" group-title="PORTUGAL | SPORTS",0079 - SPORT TV 1 (FHD / EXTRA)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jv5zXVJ1_jpixO5N5NJbItc
+#EXTINF:-1 tvg-id="sporttv1.pt" group-title="PORTUGAL | SPORTS",0080 - SPORT TV 1 (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jtg9QAiR0CZHhVeGbBCi2A8
+#EXTINF:-1 tvg-id="sporttv1.pt" group-title="PORTUGAL | SPORTS",0081 - SPORT TV 1 (HD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jqkLtcoi7ryX4OvAresdYPI
+#EXTINF:-1 tvg-id="sporttv1.pt" group-title="PORTUGAL LOW",0082 - SPORT TV 1 (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jto_e5eXG6SZ3gCC6fyMcoM
+#EXTINF:-1 tvg-id="sporttv2.pt" group-title="VODAFONE FHD",0083 - SPORT TV 2 (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jmprlXQ7aG13kq01JV15Xh4
+#EXTINF:-1 tvg-id="sporttv2.pt" group-title="PORTUGAL | SPORTS",0084 - SPORT TV 2 (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jiAdG3-npJH6F9SHLuT8NPY
+#EXTINF:-1 tvg-id="sporttv2.pt" group-title="PORTUGAL | SPORTS",0085 - SPORT TV 2 (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jnsmHkLj1jEBsTeMbRjel60
+#EXTINF:-1 tvg-id="sporttv2.pt" group-title="PORTUGAL | SPORTS",0086 - SPORT TV 2 (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jmprlXQ7aG13kq01JV15Xh4
+#EXTINF:-1 tvg-id="sporttv2.pt" group-title="PORTUGAL | SPORTS",0087 - SPORT TV 2 (HD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jv9rSzOamtEOVFtghI1wdr4
+#EXTINF:-1 tvg-id="sporttv2.pt" group-title="PORTUGAL LOW",0088 - SPORT TV 2 (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jtRTDPkBwlN4y2zmYBFED24
+#EXTINF:-1 tvg-id="sporttv3.pt" group-title="VODAFONE FHD",0089 - SPORT TV 3 (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jtTthLqSkGuwVZpcKvzliE0
+#EXTINF:-1 tvg-id="sporttv3.pt" group-title="PORTUGAL | SPORTS",0090 - SPORT TV 3 (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jnoOvU9rxvi2gUX6Pq8kvw8
+#EXTINF:-1 tvg-id="sporttv3.pt" group-title="PORTUGAL | SPORTS",0091 - SPORT TV 3 (HD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jn4P8Bcpn6zAoesV_P1XGaI
+#EXTINF:-1 tvg-id="sporttv3.pt" group-title="PORTUGAL | SPORTS",0092 - SPORT TV 3 (SD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jj8z_D1k-bIxY0COa1c-frc
+#EXTINF:-1 tvg-id="sporttv3.pt" group-title="PORTUGAL | SPORTS",0093 - SPORT TV 3 (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jiSnsmxzecbUkLGjk-5TwtY
+#EXTINF:-1 tvg-id="sporttv3.pt" group-title="PORTUGAL LOW",0094 - SPORT TV 3 (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jrAICJQJ5IuXWE0BhHIec5Y
+#EXTINF:-1 tvg-id="sporttv4.pt" group-title="VODAFONE FHD",0095 - SPORT TV 4 (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jvt_64sgSeaIeLZrRkkpZdY
+#EXTINF:-1 tvg-id="sporttv4.pt" group-title="PORTUGAL | SPORTS",0096 - SPORT TV 4 (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jnmT20ybmSoZP7eoQzdfhIE
+#EXTINF:-1 tvg-id="sporttv4.pt" group-title="PORTUGAL | SPORTS",0097 - SPORT TV 4 (HD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jibozEWb_U4p9byLfTVgUHU
+#EXTINF:-1 tvg-id="sporttv4.pt" group-title="PORTUGAL | SPORTS",0098 - SPORT TV 4 (SD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jrrEqM8s9qId2XBPb7YiyOc
+#EXTINF:-1 tvg-id="sporttv4.pt" group-title="PORTUGAL | SPORTS",0099 - SPORT TV 4 (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jmy7nEJ8yuCKvdiV1AEOWZg
+#EXTINF:-1 tvg-id="sporttv5.pt" group-title="VODAFONE FHD",0100 - SPORT TV 5 (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jl4hHeZ0kBjBVxYhdE0VR3I
+#EXTINF:-1 tvg-id="sporttv5.pt" group-title="PORTUGAL | SPORTS",0101 - SPORT TV 5 (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jta5ZtmSm-DPrg7L2eHMeTs
+#EXTINF:-1 tvg-id="sporttv5.pt" group-title="PORTUGAL | SPORTS",0102 - SPORT TV 5 (HD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jvZwt_KEqkVdvYx9JmXUehs
+#EXTINF:-1 tvg-id="sporttv5.pt" group-title="PORTUGAL | SPORTS",0103 - SPORT TV 5 (SD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jqOCt8Cg_kq0VRnnlkSRR7o
+#EXTINF:-1 tvg-id="sporttv5.pt" group-title="PORTUGAL | SPORTS",0104 - SPORT TV 5 (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jtIS4CKhHRaC-rIlh7aqNuo
+#EXTINF:-1 tvg-id="sporttv5.pt" group-title="PORTUGAL | SPORTS",0105 - SPORT TV 5 (EXTRA) (FHD / EXTRA)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-joNU5IyOR376XMcx-wWlIJY
+#EXTINF:-1 tvg-id="sporttv5.pt" group-title="PORTUGAL | SPORTS",0106 - SPORT TV 5 (EXTRA) (HD / EXTRA)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jjF7dQmxLdAlWoJcQDcUHic
+#EXTINF:-1 tvg-id="sporttv5.pt" group-title="PORTUGAL LOW",0107 - SPORT TV 5 (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jsITV5bUhbf4gqYYPxni6-A
+#EXTINF:-1 tvg-id="SportTV6.pt" group-title="VODAFONE FHD",0108 - SPORT TV 6 (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jprYei9nj2SL97ncxtahFm0
+#EXTINF:-1 tvg-id="SportTV6.pt" group-title="PORTUGAL | SPORTS",0109 - SPORT TV 6 (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jpU47uL5Vb29deeSUfEp5N0
+#EXTINF:-1 tvg-id="SportTV6.pt" group-title="PORTUGAL | SPORTS",0110 - SPORT TV 6 (HD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-juu0SW6jIAPVXWQzECeWbBQ
+#EXTINF:-1 tvg-id="ext" group-title="VODAFONE FHD",0111 - SPORT TV 7 (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jqKKhjU7F3uRbuoVHVMiWmk
+#EXTINF:-1 tvg-id="SportTV6.pt" group-title="PORTUGAL | SPORTS",0112 - SPORT TV 7 (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jiaLjKtkxh3EDpFrLi9J1vs
+#EXTINF:-1 tvg-id="SportTV6.pt" group-title="PORTUGAL | SPORTS",0113 - SPORT TV 7
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jmjU1028d67U5z1VKDhBDgM
+#EXTINF:-1 tvg-id="SportTVplus.pt" group-title="VODAFONE FHD",0114 - SPORT TV + (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jv0lej1ikGe9E77kX1EYoAI
+#EXTINF:-1 tvg-id="SportTVplus.pt" group-title="PORTUGAL | SPORTS",0115 - SPORT TV + (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jv0lej1ikGe9E77kX1EYoAI
+#EXTINF:-1 tvg-id="SportTVplus.pt" group-title="PORTUGAL | SPORTS",0116 - SPORT TV +
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jkLQ3mZW4BD7hcL4a3_jlsk
+#EXTINF:-1 tvg-id="SportTVplus.pt" group-title="PORTUGAL | SPORTS",0117 - SPORT TV + (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-ju5UjArtuGCH9S9KY6N_XEE
+#EXTINF:-1 tvg-id="ext" group-title="VODAFONE FHD",0118 - SPORT TV NBA
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jj4DcnPbV2SaSGOjoGd46kY
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | SPORTS",0119 - SPORT TV NBA
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jj4DcnPbV2SaSGOjoGd46kY
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | SPORTS",0120 - SPORT TV NBA (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jtGQrvsGkiTSA5JudWAfEgI
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0121 - SPORT TV NBA (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jsE0htlD4P5x_cIKNQCUZp8
+#EXTINF:-1 tvg-id="ext" group-title="VODAFONE FHD",0122 - DAZN 1 (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jt3rZTtJVhLFIRuBXDXP7yY
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | SPORTS",0123 - DAZN 1 (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jgKKxQB9jln13SaVlDtoVM4
+#EXTINF:-1 tvg-id="elevensports1.pt" group-title="PORTUGAL | SPORTS",0124 - DAZN 1 (HD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jgia8P_dI8TekmrlHLLk9Co
+#EXTINF:-1 tvg-id="elevensports1.pt" group-title="PORTUGAL | SPORTS",0125 - DAZN 1 (SD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jhaRQbcD5VdIG3grd8LPTEE
+#EXTINF:-1 tvg-id="elevensports1.pt" group-title="PORTUGAL | SPORTS",0126 - DAZN 1 (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jgkaSIz7kHdT0sZhR1z3TSM
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0127 - DAZN 1 (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jkVs8yt6Fko9GDKv5OiyvIE
+#EXTINF:-1 tvg-id="elevensports2.pt" group-title="VODAFONE FHD",0128 - DAZN 2 (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jnyksGfvyFNe2mYZw2C4mxY
+#EXTINF:-1 tvg-id="elevensports2.pt" group-title="PORTUGAL | SPORTS",0129 - DAZN 2 (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jnyksGfvyFNe2mYZw2C4mxY
+#EXTINF:-1 tvg-id="elevensports2.pt" group-title="PORTUGAL | SPORTS",0130 - DAZN 2 (HD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jl1GhPWlEHswQt3OMBdBt4o
+#EXTINF:-1 tvg-id="elevensports2.pt" group-title="PORTUGAL | SPORTS",0131 - DAZN 2 (SD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jiCXCBIcBfwLaYHmvN8gD_w
+#EXTINF:-1 tvg-id="elevensports2.pt" group-title="PORTUGAL | SPORTS",0132 - DAZN 2 (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jv8ToTbSTSbMa_a2V737mAg
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0133 - DAZN 2 (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jp4csZlY5KD4zjh49lDnnOU
+#EXTINF:-1 tvg-id="elevensports3.pt" group-title="VODAFONE FHD",0134 - DAZN 3 (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jm1rJ5Y-_4tPJkCP-9m_be0
+#EXTINF:-1 tvg-id="elevensports3.pt" group-title="VODAFONE FHD",0135 - DAZN 3 (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jjmrYZJm6HbWn9DpP4Jfi7Q
+#EXTINF:-1 tvg-id="elevensports3.pt" group-title="PORTUGAL | SPORTS",0136 - DAZN 3 (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jm1rJ5Y-_4tPJkCP-9m_be0
+#EXTINF:-1 tvg-id="elevensports3.pt" group-title="PORTUGAL | SPORTS",0137 - DAZN 3 (HD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jjYA5wRh5L4FnzEQL70v7EI
+#EXTINF:-1 tvg-id="elevensports3.pt" group-title="PORTUGAL | SPORTS",0138 - DAZN 3 (SD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jqkjMqBNDhlCmaWEVdvw93A
+#EXTINF:-1 tvg-id="elevensports3.pt" group-title="PORTUGAL | SPORTS",0139 - DAZN 3 (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jjmrYZJm6HbWn9DpP4Jfi7Q
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0140 - DAZN 3 (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jvaIq2H-BkeUtAs4OA2lXl0
+#EXTINF:-1 tvg-id="elevensports4.pt" group-title="VODAFONE FHD",0141 - DAZN 4 (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jrv0CFQ8aTSel7zBTRhKJBI
+#EXTINF:-1 tvg-id="elevensports4.pt" group-title="PORTUGAL | SPORTS",0142 - DAZN 4 (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jrv0CFQ8aTSel7zBTRhKJBI
+#EXTINF:-1 tvg-id="elevensports4.pt" group-title="PORTUGAL | SPORTS",0143 - DAZN 4 (HD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jlXy-_pqFfglMDjmIYDUb4c
+#EXTINF:-1 tvg-id="elevensports4.pt" group-title="PORTUGAL | SPORTS",0144 - DAZN 4 (SD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jq3MMZmVDXkH73VuH94nd4s
+#EXTINF:-1 tvg-id="elevensports4.pt" group-title="PORTUGAL LOW",0145 - DAZN 4 (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jt88XEA2rz7e4ZlM7FZU_RE
+#EXTINF:-1 tvg-id="elevensports5.pt" group-title="VODAFONE FHD",0146 - DAZN 5 (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jrsNS55WjswU8ypJXspfimY
+#EXTINF:-1 tvg-id="elevensports1.pt" group-title="VODAFONE FHD",0147 - DAZN 5 (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jkdoF0og4VwGcJ1wKcZw5aw
+#EXTINF:-1 tvg-id="elevensports5.pt" group-title="PORTUGAL | SPORTS",0148 - DAZN 5 (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jrsNS55WjswU8ypJXspfimY
+#EXTINF:-1 tvg-id="elevensports5.pt" group-title="PORTUGAL | SPORTS",0149 - DAZN 5 (SD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jjzqp-n5eMQQAPv8Lu5LMoY
+#EXTINF:-1 tvg-id="elevensports5.pt" group-title="PORTUGAL LOW",0150 - DAZN 5 (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jkLTk-kLUp9n5QcAW6f2eC8
+#EXTINF:-1 tvg-id="BenficaTV.pt" group-title="VODAFONE FHD",0151 - BENFICA TV (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jmqCKRcXu-Awhg8oajZqgl8
+#EXTINF:-1 tvg-id="BenficaTV.pt" group-title="PORTUGAL | SPORTS",0152 - BENFICA TV (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jhmLqObitufXFqaEX1ZR22w
+#EXTINF:-1 tvg-id="BenficaTV.pt" group-title="PORTUGAL | SPORTS",0153 - BENFICA TV (FHD / EXTRA)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jr2GcSQ30h-Je6yIykIfD0E
+#EXTINF:-1 tvg-id="BenficaTV.pt" group-title="PORTUGAL | SPORTS",0154 - BENFICA TV (HD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jjk1FWx2neswW8RzWcqIaJU
+#EXTINF:-1 tvg-id="BenficaTV.pt" group-title="PORTUGAL | SPORTS",0155 - BENFICA TV (SD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jhePfbfHeSBBeNgaYrNwr7g
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0156 - BENFICA TV (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jnmGtnUL828gXQYve1ljOuk
+#EXTINF:-1 tvg-id="SPORTINGTV.pt" group-title="VODAFONE FHD",0157 - SPORTING TV
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-juAkSyJ37O6iwSmlqSD32qQ
+#EXTINF:-1 tvg-id="SPORTINGTV.pt" group-title="PORTUGAL | SPORTS",0158 - SPORTING TV
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-juAkSyJ37O6iwSmlqSD32qQ
+#EXTINF:-1 tvg-id="SPORTINGTV.pt" group-title="PORTUGAL | SPORTS",0159 - SPORTING TV (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jgRwA_twmfwEL1Xw5tv3_cE
+#EXTINF:-1 tvg-id="Eurosport1.pt" group-title="VODAFONE FHD",0160 - EUROSPORT 1 (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jvSmN2x_2jTE9_JTP2XzdYU
+#EXTINF:-1 tvg-id="Eurosport1.pt" group-title="PORTUGAL | SPORTS",0161 - EUROSPORT 1 (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jvSmN2x_2jTE9_JTP2XzdYU
+#EXTINF:-1 tvg-id="Eurosport1.pt" group-title="PORTUGAL | SPORTS",0162 - EUROSPORT 1
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-juQl34AwA_QY8GRhnuYnSYo
+#EXTINF:-1 tvg-id="Eurosport1.pt" group-title="PORTUGAL | SPORTS",0163 - EUROSPORT 1 (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jtY9W4C2XRPIceoMHlGdUfI
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0164 - EUROSPORT 1 (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jpVMGfW_lRIKrX4eXVhqI_U
+#EXTINF:-1 tvg-id="Eurosport2.pt" group-title="VODAFONE FHD",0165 - EUROSPORT 2 (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jqdp0DSl01rddfQatQ9wx18
+#EXTINF:-1 tvg-id="Eurosport2.pt" group-title="PORTUGAL | SPORTS",0166 - EUROSPORT 2 (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jqdp0DSl01rddfQatQ9wx18
+#EXTINF:-1 tvg-id="esp2" group-title="PORTUGAL | SPORTS",0167 - EUROSPORT 2
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jrICYadMiQZHVyYx5ejxgKs
+#EXTINF:-1 tvg-id="ABolaTV.pt" group-title="VODAFONE FHD",0168 - A BOLA TV (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jgaa4NLJDrW0GRZM1t_2R5c
+#EXTINF:-1 tvg-id="ABolaTV.pt" group-title="PORTUGAL | SPORTS",0169 - A BOLA TV (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jgaa4NLJDrW0GRZM1t_2R5c
+#EXTINF:-1 tvg-id="ABolaTV.pt" group-title="PORTUGAL | SPORTS",0170 - A BOLA TV
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jvyzXhyFRZCr2RUsaky46aw
+#EXTINF:-1 tvg-id="ABolaTV.pt" group-title="PORTUGAL | SPORTS",0171 - A BOLA TV (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jg-5KMO3v17p4fLD5sZHZWw
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0172 - A BOLA TV (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jnMRMSv204KdZ04bpgEPT_E
+#EXTINF:-1 tvg-id="pfc.pt" group-title="PORTUGAL | SPORTS",0173 - PFC
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jkIWyKufCx1Kp8Zd-1f0sEE
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0174 - PFC (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jlog2nclnC5ATW1xgpSwh7o
+#EXTINF:-1 tvg-id="canalpanda.pt" group-title="PORTUGAL",0175 - CANAL PANDA
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jpm2l79sR1gjUOqUHEBYfzg
+#EXTINF:-1 tvg-id="canalpanda.pt" group-title="VODAFONE FHD",0176 - CANAL PANDA
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jpm2l79sR1gjUOqUHEBYfzg
+#EXTINF:-1 tvg-id="canalpanda.pt" group-title="PORTUGAL | KIDS",0177 - CANAL PANDA
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jpm2l79sR1gjUOqUHEBYfzg
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0178 - PANDA (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-ju1IbFr7xjb8kcRGd_LtbJA
+#EXTINF:-1 tvg-id="PandaKIDS.pt" group-title="PORTUGAL",0179 - PANDA KIDS
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jiMjaoi9DvS7mbMorYLjGI0
+#EXTINF:-1 tvg-id="PandaKIDS.pt" group-title="VODAFONE FHD",0180 - PANDA KIDS
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jiMjaoi9DvS7mbMorYLjGI0
+#EXTINF:-1 tvg-id="PandaBiggs.pt" group-title="PORTUGAL",0181 - BIGGS
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jqUZ-iEH__VzdhZsvopNkzQ
+#EXTINF:-1 tvg-id="PandaBiggs.pt" group-title="VODAFONE FHD",0182 - BIGGS
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jqUZ-iEH__VzdhZsvopNkzQ
+#EXTINF:-1 tvg-id="PandaBiggs.pt" group-title="PORTUGAL | KIDS",0183 - BIGGS
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jqUZ-iEH__VzdhZsvopNkzQ
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0184 - BIGGS (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-juC2-a-BsZCtHrbs_bx07nM
+#EXTINF:-1 tvg-id="SicK.pt" group-title="PORTUGAL",0185 - SIC K (HD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jj0z5srFyx3p_strcCJkVos
+#EXTINF:-1 tvg-id="SicK.pt" group-title="VODAFONE FHD",0186 - SIC K (HD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jj0z5srFyx3p_strcCJkVos
+#EXTINF:-1 tvg-id="SicK.pt" group-title="PORTUGAL | KIDS",0187 - SIC K (HD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jj0z5srFyx3p_strcCJkVos
+#EXTINF:-1 tvg-id="SicK.pt" group-title="PORTUGAL | KIDS",0188 - SIC K
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jpQJINJjBo9VftFj50FVGY4
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0189 - SIC K (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jkS-gtU-agsbRAcIB6CtnLw
+#EXTINF:-1 tvg-id="discoverychannel.pt" group-title="VODAFONE FHD",0190 - DISNEY CHANNEL
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jtNSbWoDBJ7bwi4Mu7n1ttc
+#EXTINF:-1 tvg-id="discoverychannel.pt" group-title="PORTUGAL | KIDS",0191 - DISNEY CHANNEL
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jtNSbWoDBJ7bwi4Mu7n1ttc
+#EXTINF:-1 tvg-id="DisneyChannel.mx" group-title="PORTUGAL LOW",0192 - DISNEY CHANNEL (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jkN16aHg5M04Gmk86S6rfu8
+#EXTINF:-1 tvg-id="DisneyJunior.pt" group-title="PORTUGAL",0193 - DISNEY JUNIOR
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jnjVJRIb53ZsptTx_6ih-N4
+#EXTINF:-1 tvg-id="DisneyJunior.pt" group-title="VODAFONE FHD",0194 - DISNEY JUNIOR
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jnjVJRIb53ZsptTx_6ih-N4
+#EXTINF:-1 tvg-id="DisneyJunior.pt" group-title="PORTUGAL | KIDS",0195 - DISNEY JUNIOR
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jnjVJRIb53ZsptTx_6ih-N4
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0196 - DISNEY JUNIOR (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jtjeDHqHwUf3g4dkYfz9cUk
+#EXTINF:-1 tvg-id="cartoon" group-title="PORTUGAL",0197 - CARTOON NETWORK
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jmQ1g-pMg_OdJhyUgma1hFo
+#EXTINF:-1 tvg-id="cartoon" group-title="VODAFONE FHD",0198 - CARTOON NETWORK
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jmQ1g-pMg_OdJhyUgma1hFo
+#EXTINF:-1 tvg-id="cartoon" group-title="PORTUGAL | KIDS",0199 - CARTOON NETWORK
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jmQ1g-pMg_OdJhyUgma1hFo
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" group-title="PORTUGAL LOW",0200 - CARTOON NETWORK (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jvZbDjR7Fk5U0fO3sEX_MVk
+#EXTINF:-1 tvg-id="Nickelodeon.pt" group-title="PORTUGAL",0201 - NICKELODEON
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-juGZ1tcSa2r5oEPdDNK7OPg
+#EXTINF:-1 tvg-id="Nickelodeon.pt" group-title="VODAFONE FHD",0202 - NICKELODEON
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-juGZ1tcSa2r5oEPdDNK7OPg
+#EXTINF:-1 tvg-id="Nickelodeon.pt" group-title="PORTUGAL | KIDS",0203 - NICKELODEON
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-juGZ1tcSa2r5oEPdDNK7OPg
+#EXTINF:-1 tvg-id="Nickelodeon.mx" group-title="PORTUGAL LOW",0204 - NICKELODEON (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jkZ-QVfasJYcuCiwBHQHgyw
+#EXTINF:-1 tvg-id="NickJr.pt" group-title="PORTUGAL | KIDS",0205 - NICK JR
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jkVbljofNf24x-qLVwMxi4k
+#EXTINF:-1 tvg-id="Cartoonito.pt" group-title="PORTUGAL",0206 - CARTOONITO
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jvJoTnbhksw57qu6pP_1j48
+#EXTINF:-1 tvg-id="Cartoonito.pt" group-title="VODAFONE FHD",0207 - CARTOONITO
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jvJoTnbhksw57qu6pP_1j48
+#EXTINF:-1 tvg-id="Cartoonito.pt" group-title="PORTUGAL | KIDS",0208 - CARTOONITO
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jvJoTnbhksw57qu6pP_1j48
+#EXTINF:-1 tvg-id="BabyTV.pt" group-title="PORTUGAL",0209 - BABY TV
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jniYyuuoNd7ehvFbAhsnDLY
+#EXTINF:-1 tvg-id="BabyTV.pt" group-title="VODAFONE FHD",0210 - BABY TV
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jniYyuuoNd7ehvFbAhsnDLY
+#EXTINF:-1 tvg-id="BabyTV.pt" group-title="PORTUGAL | KIDS",0211 - BABY TV
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jniYyuuoNd7ehvFbAhsnDLY
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0212 - BABY TV (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jul_4JEO7tK12699QOQ0n3k
+#EXTINF:-1 tvg-id="TVCineTOP.pt" group-title="VODAFONE FHD",0213 - TV CINE TOP (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jpVfaAA-6MPOH6s0GLKqM0M
+#EXTINF:-1 tvg-id="TVCineTOP.pt" group-title="PORTUGAL | MOVIES",0214 - TV CINE TOP (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jpVfaAA-6MPOH6s0GLKqM0M
+#EXTINF:-1 tvg-id="TVCineTOP.pt" group-title="PORTUGAL | MOVIES",0215 - TV CINE TOP
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-juWuKgAFUxRK0VMqyKZRFQk
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0216 - TV CINE TOP (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jilALdFu6RfABfZVa1FWr70
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0217 - TV CINE TOP (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jhqFvERLTOH_aYzstk7oGoY
+#EXTINF:-1 tvg-id="TVCineEDITION.pt" group-title="VODAFONE FHD",0218 - TV CINE EDITION (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jrSuJJyk9yYBFdeP1M7n7W4
+#EXTINF:-1 tvg-id="TVCineEDITION.pt" group-title="PORTUGAL | MOVIES",0219 - TV CINE EDITION (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jrSuJJyk9yYBFdeP1M7n7W4
+#EXTINF:-1 tvg-id="TVCineEDITION.pt" group-title="PORTUGAL | MOVIES",0220 - TV CINE EDITION
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jhcl4mI_SqIo4-JloDdtsmI
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0221 - TV CINE EDITION (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jqvhOkQZZAcx_WfTe87O89M
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0222 - TV CINE EDITION (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jrKK67jbBxRju9sRGkDgoO8
+#EXTINF:-1 tvg-id="TVCineEMOTION.pt" group-title="VODAFONE FHD",0223 - TV CINE EMOTION (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jiEz-EK0R_wguKZeUpjnFXg
+#EXTINF:-1 tvg-id="TVCineEMOTION.pt" group-title="PORTUGAL | MOVIES",0224 - TV CINE EMOTION (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jiEz-EK0R_wguKZeUpjnFXg
+#EXTINF:-1 tvg-id="TVCineEMOTION.pt" group-title="PORTUGAL | MOVIES",0225 - TV CINE EMOTION
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-juAuXO8g7MlGAyyO1Ou7tUc
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0226 - TV CINE EMOTION (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jlyK2ZAn77pKay3dz9oVeco
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0227 - TV CINE EMOTION (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jm_5LunYprh1tjexoo4-qZU
+#EXTINF:-1 tvg-id="TVCineACTION.pt" group-title="VODAFONE FHD",0228 - TV CINE ACTION (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jvpIgBisfOXNjgSi0zOdNwE
+#EXTINF:-1 tvg-id="TVCineACTION.pt" group-title="PORTUGAL | MOVIES",0229 - TV CINE ACTION (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jvpIgBisfOXNjgSi0zOdNwE
+#EXTINF:-1 tvg-id="TVCineACTION.pt" group-title="PORTUGAL | MOVIES",0230 - TV CINE ACTION
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jlPCHgBa_rrLw06FI5N4_rU
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0231 - TV CINE ACTION (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jsL5ojZUKcn-ILhHqQNQWms
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0232 - TV CINE ACTION (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jmbJFSiKFqDM47bM1rIiIco
+#EXTINF:-1 tvg-id="ext" group-title="VODAFONE FHD",0233 - HOLLYWOOD (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-juttmtil8zllwKU-_IQg-ss
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0234 - HOLLYWOOD (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-juttmtil8zllwKU-_IQg-ss
+#EXTINF:-1 tvg-id="hollywood" group-title="PORTUGAL | MOVIES",0235 - HOLLYWOOD
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-joRnReZK6WepRW79WJq9xag
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0236 - HOLLYWOOD (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jiIquXCAboBaV_RSSObV9sc
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0237 - HOLLYWOOD (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jo1IeXCJoq8o7-sC0Nr5QHE
+#EXTINF:-1 tvg-id="axn.pt" group-title="PORTUGAL | MOVIES",0238 - AXN (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jllbmChnNS16Ks1MP2GemAM
+#EXTINF:-1 tvg-id="axn.pt" group-title="PORTUGAL | MOVIES",0239 - AXN
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-joFs8twSY6GIWnkG2bfCxcw
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0240 - AXN (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jpzAhrN1Qq6O-_LfibKOsPo
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0241 - AXN (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jjXbJgVecm40guUnUnarfUM
+#EXTINF:-1 tvg-id="AXNMovies.pt" group-title="PORTUGAL | MOVIES",0242 - AXN MOVIES (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jlAJRiELOh8jumyTWliOj3s
+#EXTINF:-1 tvg-id="AXNMovies.pt" group-title="PORTUGAL | MOVIES",0243 - AXN MOVIES
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jlRirSXYxlckhMpy-BqyUJk
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0244 - AXN MOVIES (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jqEBYJboHpwLT2_tamvNYtY
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0245 - AXN MOVIES (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jm1VKF6xH1p2O9V8Adaa3ZM
+#EXTINF:-1 tvg-id="AXNWhite.pt" group-title="PORTUGAL | MOVIES",0246 - AXN WHITE (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jlTtommeP46x4qZ4pHbOgwU
+#EXTINF:-1 tvg-id="AXNWhite.pt" group-title="PORTUGAL | MOVIES",0247 - AXN WHITE
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jkgEzV23N5sNkTAY4OjVKsE
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0248 - AXN WHITE (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jrsA8lHLRroQosNBk-KGYWw
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0249 - AXN WHITE (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jnypalvo3wmVghLc4V624RI
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0250 - STAR CHANNEL (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jkKetOcBULBlcN0nIRefU-A
+#EXTINF:-1 tvg-id="otr" group-title="PORTUGAL | MOVIES",0251 - STAR CHANNEL
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jo0KYwFpu_Hg4aDGFiyCTdY
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0252 - STAR CHANNEL (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jp0YflvsXlGGa8wwe4JQKGc
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0253 - STAR CHANNEL (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jpBljEUvko3yInYyZJjHcwo
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0254 - STAR LIFE (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jg4AzfeDZcwb2HsieDzIPLA
+#EXTINF:-1 tvg-id="StarOne.uk" group-title="PORTUGAL | MOVIES",0255 - STAR LIFE
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jtHkMCwDULxlF9xTxdLZyns
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0256 - STAR LIFE (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jj1VKnIYwLgyF7AUnlVV8a0
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0257 - STAR LIFE (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jiwLT5f-rY2r7PStSTX-LeA
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0258 - STAR COMEDY (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jg52LwvsfCUkUCbwBeQpfYk
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0259 - STAR COMEDY
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jqFg1b8nPT_GmjNUr5FgLQc
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0260 - STAR COMEDY (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jsG1CLM4TfS8xd20xSPkDPA
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0261 - STAR CRIME (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jqnmTAdPPNoJmLcjcuye8qQ
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0262 - STAR CRIME
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jjH3KIxk8LqAq5mVAmGcNTQ
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0263 - STAR CRIME (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jt-tTaBcR2B8gkpPK0Gy9Tc
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0264 - STAR CRIME (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jktJkgiK4hI0HS-WLUujBzw
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0265 - STAR MOVIES (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jjLxkKN6Wi0y5sAbodySXPg
+#EXTINF:-1 tvg-id="FoxMovies.hr" group-title="PORTUGAL | MOVIES",0266 - STAR MOVIES
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jutqGJokilTSgmCK8GGziqE
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0267 - STAR MOVIES (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jpUk53ycfusntOBOY5DKz10
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0268 - STAR MOVIES (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jnYh0iJSQHY1g5V1BVCh6VY
+#EXTINF:-1 tvg-id="SyFy.pt" group-title="PORTUGAL | MOVIES",0269 - SYFY (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jjIKozAllvLm6A9HPJ2vjP8
+#EXTINF:-1 tvg-id="Cinemundo.pt" group-title="PORTUGAL | MOVIES",0270 - SYFY
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-juSdEXJU1druajoQMrbCPQI
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0271 - SYFY (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jqyOnfiqQxD6eZvv5wfy0Ow
+#EXTINF:-1 tvg-id="SyFy.mx" group-title="PORTUGAL LOW",0272 - SYFY (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jirHrx59aB4g5PRPTS2Cvw4
+#EXTINF:-1 tvg-id="AMC.pt" group-title="PORTUGAL | MOVIES",0273 - AMC (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jlrGhrX9rAWhIiz2CQED6yg
+#EXTINF:-1 tvg-id="AMC.pt" group-title="PORTUGAL | MOVIES",0274 - AMC
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jhZy46IZj9z0AVHII4fFvoQ
+#EXTINF:-1 tvg-id="AMCHD.mx" group-title="PORTUGAL LOW",0275 - AMC (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jihmh9yJKevtgrDdKb9qHfc
+#EXTINF:-1 tvg-id="AMCBreak.pt" group-title="PORTUGAL",0276 - AMC BREAK (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jvYv65vU-daCqdnMMy1aZOc
+#EXTINF:-1 tvg-id="AMCBreak.pt" group-title="PORTUGAL",0277 - AMC BREAK
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jvYDbzXEpI3L9BEhwAY8HNs
+#EXTINF:-1 tvg-id="AMCCrime.pt" group-title="PORTUGAL",0278 - AMC CRIME
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jvRrTxJxL9oShE853eY5E3w
+#EXTINF:-1 tvg-id="MTV.pt" group-title="PORTUGAL | MUSIC",0279 - MTV PORTUGAL
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-juJYvcXu1zHLe66Vp7MWico
+#EXTINF:-1 tvg-id="vh-1-classic" group-title="PORTUGAL | MUSIC",0280 - MTV 80s
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jiCg-L58SrAR6B0hRmqiDS0
+#EXTINF:-1 tvg-id="MCMPop.pt" group-title="PORTUGAL | MUSIC",0281 - MCM POP
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jnrwH5vfCgukvK2w1oCSqHk
+#EXTINF:-1 tvg-id="TraceUrban.pt" group-title="PORTUGAL | MUSIC",0282 - TRACE URBAN
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jolZ32FuZwa9SzH0vnuGFNg
+#EXTINF:-1 tvg-id="TraceToca.pt" group-title="PORTUGAL | MUSIC",0283 - TRACE TOCA
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jhB1xvjdBindcdZL5UetZQk
+#EXTINF:-1 tvg-id="nationalgeographic.pt" group-title="PORTUGAL",0284 - NATIONAL GEOGRAPHIC (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jjnWlxZTCZUDhBfoHw8JHU0
+#EXTINF:-1 tvg-id="nationalgeographic.pt" group-title="PORTUGAL",0285 - NATIONAL GEOGRAPHIC
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jhShWRf4_KpXmBHfv_n2cm4
+#EXTINF:-1 tvg-id="nationalgeographic.pt" group-title="PORTUGAL",0286 - NATIONAL GEOGRAPHIC (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jqloXQ6w6qqqt8BHbFwWJRQ
+#EXTINF:-1 tvg-id="nationalgeographic.pt" group-title="VODAFONE FHD",0287 - NATIONAL GEOGRAPHIC (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jjnWlxZTCZUDhBfoHw8JHU0
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0288 - NATIONAL GEOGRAPHIC (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jlXCZ2TxG55f0PaULNIzoDI
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL",0289 - NAT GEO WILD (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jknoGIB_Wc_3JcIeZnsqesI
+#EXTINF:-1 tvg-id="wild-hd" group-title="PORTUGAL",0290 - NAT GEO WILD (HD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jlvlsm8bQqshtP7F640hJOY
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL",0291 - NAT GEO WILD (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jv3GzNz_sy0XXAIVuYnEiv8
+#EXTINF:-1 tvg-id="ext" group-title="VODAFONE FHD",0292 - NAT GEO WILD (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jknoGIB_Wc_3JcIeZnsqesI
+#EXTINF:-1 tvg-id="odisseia.pt" group-title="PORTUGAL",0293 - ODISSEIA (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jpVMCqjaLI5LGMqzP0Dd4SM
+#EXTINF:-1 tvg-id="odisseia.pt" group-title="PORTUGAL",0294 - ODISSEIA
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jtohwLYZYFAnWOaELOOx4kk
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL",0295 - HISTORIA (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jupZGSvkke-At4wCaJSIJtE
+#EXTINF:-1 tvg-id="History.uk" group-title="PORTUGAL",0296 - HISTORIA
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jvUqejRPo3fug9dFANq_Oxk
+#EXTINF:-1 tvg-id="ext" group-title="VODAFONE FHD",0297 - HISTORIA (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jupZGSvkke-At4wCaJSIJtE
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0298 - HISTORIA (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jpUVilL8y4PAzS-K9JdY6tQ
+#EXTINF:-1 tvg-id="discoverychannel.pt" group-title="PORTUGAL",0299 - DISCOVERY CHANNEL (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jkPyxlUbs4AJIOSDfAzX8lI
+#EXTINF:-1 tvg-id="discoverychannel.pt" group-title="PORTUGAL",0300 - DISCOVERY CHANNEL
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jvIFBEQFxC2ClWPT-GcM1K4
+#EXTINF:-1 tvg-id="discoverychannel.pt" group-title="PORTUGAL",0301 - DISCOVERY CHANNEL (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jjn-tlrKKRMxFZEZSHMrLVM
+#EXTINF:-1 tvg-id="discoverychannel.pt" group-title="VODAFONE FHD",0302 - DISCOVERY CHANNEL (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jkPyxlUbs4AJIOSDfAzX8lI
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0303 - DISCOVERY CHANNEL (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jq_Gr4Hisj3IM2VWNLlpXZw
+#EXTINF:-1 tvg-id="TravelChannel.pt" group-title="PORTUGAL",0304 - TRAVEL CHANNEL
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jifawnRzVd0waR-rXxEFOOA
+#EXTINF:-1 tvg-id="24Kitchen.pt" group-title="PORTUGAL",0305 - 24 KITCHEN (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jrzuMfOgxw-kNPTgyX3w3wg
+#EXTINF:-1 tvg-id="FoodNetwork.pt" group-title="PORTUGAL",0306 - FOOD NETWORK
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jhEbU0XyKFAJABTwHDrYFPc
+#EXTINF:-1 tvg-id="FoodNetwork.pt" group-title="VODAFONE FHD",0307 - FOOD NETWORK
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jhEbU0XyKFAJABTwHDrYFPc
+#EXTINF:-1 tvg-id="AfroMusic.pt" group-title="PORTUGAL | MUSIC",0308 - AFRO MUSIC
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jjqRCQZIArlZPy9s9HWlm0Q
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0309 - APPLE TV+
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jvG2P61ImjXLdkPaCErN2cY
+#EXTINF:-1 tvg-id="iciARTV.ca" group-title="PORTUGAL",0310 - ARTV
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jm6A_Hdr4Xrm2zv3flXZOTA
+#EXTINF:-1 tvg-id="BBCentertainment.nl" group-title="PORTUGAL",0311 - BBC ENTERTAINEMENT
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jggjgJINP4XxlTi06UrcbpY
+#EXTINF:-1 tvg-id="bbc-world" group-title="PORTUGAL",0312 - BBC WORLD NEWS
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-joc1A4_yFPLQsVqiHKPaWnw
+#EXTINF:-1 tvg-id="BenficaTV.pt" group-title="PORTUGAL | SPORTS",0313 - BENFICA TV ʰ (4K)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jpGuyoZgEJ_EgKM_rWVn1uc
+#EXTINF:-1 tvg-id="bloomberg" group-title="PORTUGAL",0314 - BLOOMBERG
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jpawdr6cWnL4WYqIT83UwvE
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | KIDS",0315 - BOOBA
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jgYI4Afs-_m8i6iqZ6nqBm4
+#EXTINF:-1 tvg-id="boomerang" group-title="PORTUGAL",0316 - BOOMERANG
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jrp_BE1Xvf10l_KXldk79SY
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | SPORTS",0317 - CACA E PESCA (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jsjWY1Wzxd6C3p6VISxqgNI
+#EXTINF:-1 tvg-id="CacaVision.pt" group-title="PORTUGAL | SPORTS",0318 - CACAVISION
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jjTol50mGHOCKe95XAV6OZo
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MUSIC",0319 - CAFE CONCERTO
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jtNadl_7d97iniC9fKXe5os
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL",0320 - CANAL 180
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jjTVXZ52rOpFqXMYyYNZ6b0
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | KIDS",0321 - CANAL BARBIE
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jiAqyrY7fqV7RSMK9qMVBY8
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | SPORTS",0322 - CANAL MOTO GP
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jmXuPyzWHOBVZjBWodjmbT4
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0323 - CANAL NOS (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jvGDDTelf6z7NqK3Xt9ng9o
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0324 - CANAL TERROR
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jl2K5i8S4-yZtNWi1eXS3y4
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL",0325 - CASA E COZINHA (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-ju97cNJbXOkd2nergEXAPls
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0326 - CINEMA AÇÃO
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jhpyFD2Y8MGtc5MSUxEvt9c
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0327 - CINEMA ARTES MARCIAIS
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jjtoLo_8z7lI1J9QyxqGShs
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0328 - CINEMA AS ESCURAS
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jlrryrT5LmQMIceSw5GFozU
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0329 - CINEMA BOLLYWOOD
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jkIn5kgXrlB8PRDgtdj-fas
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0330 - CINEMA BUD SPENCER
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jlrMJjFqPQ-7IwxIzFSOL7o
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0331 - CINEMA COMEDIA
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jlnJ45jkz5fUCtZ5-MMMf5c
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0332 - CINEMA ESTREIAS
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jmybCjKwoJPzTSvKzqdAVho
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0333 - CINEMA FANTASIA
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jmHa_VgTfWY3bpyDiStpn-Q
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0334 - CINEMA FICÇÃO CIENTIFICA
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jocydsA_3F89MCbwUKvcC0w
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0335 - CINEMA GUERRA
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jkr5g3w1z6ZgkTnBG2GM0uo
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0336 - CINEMA JACKIE CHAN
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jmzICxDRi0E9---71a-6Qd8
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | KIDS",0337 - CINEMA KIDS
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jp-rgV8RBC941CtmdxOYUF4
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0338 - CINEMA PORTUGUES
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jvV4QHtx6_rjV_vxF_YjCLY
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0339 - CINEMA STEVEN SEAGAL
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jl3JTuhBixVPHwTf2ssVZlA
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0340 - CINEMA TOM CRUISE
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jqpnTcvw6JYDdlgj-rUEZNc
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0341 - CINEMA VAN DAMME
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jiczBby_dcEiommGWDgcyqs
+#EXTINF:-1 tvg-id="Cinemundo.pt" group-title="VODAFONE FHD",0342 - CINEMUNDO (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jsasXpDT67Bw_6-gEXeeIxw
+#EXTINF:-1 tvg-id="Cinemundo.pt" group-title="PORTUGAL | MOVIES",0343 - CINEMUNDO (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jsasXpDT67Bw_6-gEXeeIxw
+#EXTINF:-1 tvg-id="Cinemundo.pt" group-title="PORTUGAL | MOVIES",0344 - CINEMUNDO
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jqzPKJ3VT37QZKE5cOS3BXA
+#EXTINF:-1 tvg-id="Cinemundo.pt" group-title="PORTUGAL | MOVIES",0345 - CINEMUNDO (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jpgsjHgYUEF2gp1GQyzNkXw
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0346 - CINEMUNDO (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jrvyrXvnqxhr9f0FJbNF-KA
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0347 - CINEPLEX
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jh5sMJv7bRx3PWJgG5LS1iI
+#EXTINF:-1 tvg-id="cnbc" group-title="PORTUGAL",0348 - CNBC
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jtK9MYvJDBQsawS2O03YH6I
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL",0349 - Cubavisiðn Internacional
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jsuEeSbCPMMsD3nAzOQAfhY
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | KIDS",0350 - DC
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jmH7Z2X7LROvDYbb9_j0IJc
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MUSIC",0351 - DESGARRADAS
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jqWfvyJWBiBX22E9kMzTu8o
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | KIDS",0352 - DISNEY +
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jiRVtmPQ6CBqLUqxBmcFbYM
+#EXTINF:-1 tvg-id="SkyMoviesDisney.uk" group-title="PORTUGAL | KIDS",0353 - DISNEY MOVIES
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jppCZ1Bnj3XpqSL4WNnw03A
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | KIDS",0354 - DISNEY PIXAR
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jqBPaprFOpanJ96H_gow7sw
+#EXTINF:-1 tvg-id="DogTV.pt" group-title="PORTUGAL",0355 - DOG TV
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jlf2_JItItL5VfslHCCyrig
+#EXTINF:-1 tvg-id="DogTV.pt" group-title="VODAFONE FHD",0356 - DOG TV
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jlf2_JItItL5VfslHCCyrig
+#EXTINF:-1 tvg-id="Dreamworks.fr" group-title="PORTUGAL | MOVIES",0357 - DREAMWORKS
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jlMVJdoaB4OX5GM_5qyjqW8
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL",0358 - E! ENTERTAINEMENT (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jtlJ-dHX85WfO5VazU3N4eI
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL",0359 - E! ENTERTAINEMENT
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jkvMeWrJ_tlXBSnxUrIPMSY
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL",0360 - EEC SECUNDARIO
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jssvuVHQiZ2KmWXtbln7Zuk
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MUSIC",0361 - ES | MTV Live
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jguIhhifu_uaqw_DkajJbh0
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | SPORTS",0362 - Especial - Al-Nassr
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jvZJ_YyN0qv8a_Z42ZiLFvo
+#EXTINF:-1 tvg-id="Euronews.pt" group-title="PORTUGAL",0363 - EURONEWS
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jsOhCxzAIurOi5bzPM8PVYA
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL",0364 - FATIMA TV
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jpad9zfdl7VmCYvRIUP66y8
+#EXTINF:-1 tvg-id="FightNetworkHD.ca" group-title="PORTUGAL",0365 - FIGHT NETWORK (HD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jpq4_GzvDKAfCr0jZ0UGJmU
+#EXTINF:-1 tvg-id="FightNetworkHD.ca" group-title="VODAFONE FHD",0366 - FIGHT NETWORK (HD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jpq4_GzvDKAfCr0jZ0UGJmU
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0367 - FILMES WESTERN
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-ju45iDQKNsetyNud1wtrvfM
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | KIDS",0368 - FOX KIDS
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jlRokTSCfDGVrHHchOLbteg
+#EXTINF:-1 tvg-id="FuelTV.pt" group-title="VODAFONE FHD",0369 - FUEL TV (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jjSIJd0IdePi7eOVpxzIhco
+#EXTINF:-1 tvg-id="FuelTV.pt" group-title="PORTUGAL | SPORTS",0370 - FUEL TV (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jjSIJd0IdePi7eOVpxzIhco
+#EXTINF:-1 tvg-id="Gametoon.eu" group-title="PORTUGAL",0371 - GAMETOON
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-joX563z0LfXCK2m944snjvg
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0372 - GLOBOPLAY
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jnkgrl5tSnA58gdqqNX8mRs
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL",0373 - Gospel TV
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jmMLKqgUwrNAP7GFEIKpwCQ
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0374 - HBO MAX
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jl08jLUHihPyX64LkzpVygk
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0375 - HBO MAX PORTUGAL
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jteFYq3DW1N9sy6QAvyxFSY
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL",0376 - HERMAN JOSE TV
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jmF2HRrEgcEH6oN9Sxu2tk8
+#EXTINF:-1 tvg-id="investigationdiscovery.pt" group-title="PORTUGAL",0377 - ID INVESTIGATION DISCOVERY
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jpoRkReOji0OwtdEFmMVISQ
+#EXTINF:-1 tvg-id="investigationdiscovery.pt" group-title="PORTUGAL",0378 - ID INVESTIGATION DISCOVERY (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jk4wXKlZlU9aconOpHFNG0s
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0379 - JOAO KLEBER SHOW
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jjleHkQRjJjErIERy8k-n2Y
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0380 - KURIAKOS CINE
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jkzmaKzrLY2lO8Da3JG9Hlk
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL",0381 - KURIAKOS TV
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jgjlfO79pDaq_e7tq82zBYA
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0382 - LADYBUG
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jvNBHTkuoDtWiB8eiRpfytg
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL",0383 - LOCALVISÃO TV (HD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jqi8JHTVJqFZwa3omIDUXVc
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | KIDS",0384 - LUCAS NETO TV
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jj8yfCAFL7M2FTWF_Y0W9es
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL",0385 - MARRADAS
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jtP33MCFBTqr3YnqfA7tOtM
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | KIDS",0386 - MARVEL STUDIOS
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jq8B_3banwep4_K_Jeg87qQ
+#EXTINF:-1 tvg-id="mezzo" group-title="PORTUGAL | MUSIC",0387 - MEZZO
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-juGf0lKqNwMs1dxb9sOcX8I
+#EXTINF:-1 tvg-id="Motorvision.pt" group-title="PORTUGAL",0388 - Motorvision (HD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jvLrj3ERS1JAqOUWz9sNBfg
+#EXTINF:-1 tvg-id="Motorvision.pt" group-title="PORTUGAL | SPORTS",0389 - MOTORVISION
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jiH7LelTcJ2yEnlvXkcSNpE
+#EXTINF:-1 tvg-id="MTV.mx" group-title="PORTUGAL LOW",0390 - MTV (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jpN5Hvgqx7biPPhpSLnZ540
+#EXTINF:-1 tvg-id="mtv-hits" group-title="PORTUGAL | MUSIC",0391 - MTV Hits
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jvKwHZ8T31VfiObgkfGCoUs
+#EXTINF:-1 tvg-id="Mundotoro.pt" group-title="PORTUGAL",0392 - MUNDOTORO TV
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jr3D7BnIrjRubRFfZMCOPYM
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0393 - NETFLIX
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jjPeda4zlJaq3N0XnnVMPDU
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | KIDS",0394 - NETFLIX KIDS
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-js68K8Wadw9tfaxHuzJehvc
+#EXTINF:-1 tvg-id="ext" group-title="VODAFONE FHD",0395 - NEWS NOW (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jp_8w6otl2gqC5yCczgOCsc
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL",0396 - NOW TV
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jnGYQ1MU5pp-2yC46o4ij1Y
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL",0397 - OPTO
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-juXh7MpBOrWczPsBjGh5Qks
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0398 - OPTO
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jkqjnsGoHqvpjO2ZnKTLz_U
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0399 - PETER RABBIT
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jhuaIxQ39Jiv0w2W4pR3sAM
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | KIDS",0400 - PJ MASKS
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jnRseVhrklCGdPAjoFCBsWc
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0401 - PRIME VIDEO TV
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jv6uGB-p_Ht_qhyBoWWnkD4
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0402 - RALLY MANIA
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jvqxEi_B2wc-zhG0SPVyXwA
+#EXTINF:-1 tvg-id="Recordnews.br" group-title="PORTUGAL",0403 - Record News
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jmMJqkSMUPopVYAjbSKdmmo
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | SPORTS",0404 - Red Bull TV (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jocxPLeKYbiSPlTCq-Hu0ug
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0405 - RED BULL TV (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jooHuJZ1aD3PghcbXJxd7oc
+#EXTINF:-1 tvg-id="RTPAcores.pt" group-title="PORTUGAL",0406 - RTP ACORES
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jm-I0sK0B3cXOoZ0_y2114I
+#EXTINF:-1 tvg-id="RTPAfrica.pt" group-title="PORTUGAL",0407 - RTP AFRICA
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jvn5TS82syHGRjowJ2kSp-8
+#EXTINF:-1 tvg-id="RTPInternacional.br" group-title="PORTUGAL",0408 - RTP INTERNACIONAL
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jqz2UoCf_B7UV9VX6X7VITE
+#EXTINF:-1 tvg-id="RTPMadeira.pt" group-title="PORTUGAL",0409 - RTP MADEIRA
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jp3RIBovl6wZttcNankL93Q
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | KIDS",0410 - SERIES MARVEL
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jix8yFKLRro2SBwc6YtdCtE
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | KIDS",0411 - SHOWTIME KIDS
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jpTSbhXiZwefx050zm4bAc8
+#EXTINF:-1 tvg-id="Sic.br" group-title="PORTUGAL",0412 - SIC INTERNACIONAL
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jms-KjEgJ4pJWpgZ_IR5dwo
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL",0413 - SIC NOVELAS
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jgPRvyvj4gYwgoA7H0w3po8
+#EXTINF:-1 tvg-id="ext" group-title="VODAFONE FHD",0414 - SIC NOVELAS
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jgPRvyvj4gYwgoA7H0w3po8
+#EXTINF:-1 tvg-id="SkyNews.uk" group-title="PORTUGAL",0415 - SKY NEWS
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jntzXI1-qTBkMhLG3O6mpPA
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0416 - SKY SHOWTIME
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jg4rWGrEuUZiZXep05mDJIM
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | KIDS",0417 - SONIC MANIA
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-joxiJ-sELM7aHscZlMrJ7Ms
+#EXTINF:-1 tvg-id="sporttv1.pt" group-title="PORTUGAL | SPORTS",0418 - SPORT TV 1 ʰ (4K)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jtLowO22LshYanlTvnUhTkk
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0419 - SPORT TV+ (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jsyWGJOlugu5KGoype2JCcg
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0420 - STAND UP
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jqV5q8V4ymoFIbebdyNDoaU
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL",0421 - STRONG BY ZUMBA
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jpyzIvoZwYSLva21YRwkvJE
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0422 - STUDIOS (FHD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jsSg-AHvETn_IoUD-Cteurw
+#EXTINF:-1 tvg-id="NOSStudios.pt" group-title="PORTUGAL | MOVIES",0423 - STUDIOS
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jkxTzPjuQNv1C7huhYScmoc
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0424 - STUDIOS (H265)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-juRzxHyLMwf9cPijrE2ZVYg
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MUSIC",0425 - THE BEST MUSICALS
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jrjyw2Q8kuTOsp4Jb_P0MHA
+#EXTINF:-1 tvg-id="TheVoice.bg" group-title="PORTUGAL | MUSIC",0426 - THE VOICE
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jtAmUytFijbG5ckQm5msHV8
+#EXTINF:-1 tvg-id="TLC.pt" group-title="PORTUGAL",0427 - TLC
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jmQt2Dtu8QRoBx2VochrS3I
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL LOW",0428 - TLC (LOW)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jtxjdC6LdRZhV2W120lGZqg
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | KIDS",0429 - TOM E OS AMIGOS
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jhQHE7_XhAmvUU8EpqfKth4
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | MOVIES",0430 - TOP MIX TV
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jp0z44lZYmRA8Rqox2xT5Cw
+#EXTINF:-1 tvg-id="TPAInternacional.pt" group-title="PORTUGAL",0431 - TPA INTERNACIONAL
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jtrF9qXkgaVRv6739U5G9bU
+#EXTINF:-1 tvg-id="TravelChannel.pt" group-title="PORTUGAL",0432 - TRAVEL
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jqAdT8aBWQuWx-GYdrtKAKE
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL",0433 - TREINE EM CASA
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jp6UXID7Dzmae1Nl3b4gdBc
+#EXTINF:-1 tvg-id="TVSeries.pt" group-title="PORTUGAL | MOVIES",0434 - TV SERIES
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jlcHc-B7ox5dCUNdiS9qvIc
+#EXTINF:-1 tvg-id="tv5monde" group-title="PORTUGAL",0435 - TV5 MONDE
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jhoFZc4X_PI4PiiqaA_DhmU
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL",0436 - TVC CABO VERDE
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jgkLyKKl6Jagr1NJIV0WRtU
+#EXTINF:-1 tvg-id="TVEi.nws" group-title="PORTUGAL",0437 - TVE INTERNACIONAL
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jquRWMkxKvR-8fReIbzNNuQ
+#EXTINF:-1 tvg-id="TVIReality.pt" group-title="PORTUGAL",0438 - TVI REALITY - MOSAICO (MOSAICO)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-juVILz9k4SKKeyTKRNwBvPg
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL",0439 - TVR INTERNACIONAL
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jtMlhVT03CLr_zN1OPhpjao
+#EXTINF:-1 tvg-id="ext" group-title="PORTUGAL | KIDS",0440 - WARNER BROSS KIDS
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jrjBSET9CXWYk_X4vuzuZ8s
+#EXTINF:-1 tvg-id="ZAPViva.pt" group-title="PORTUGAL",0441 - ZAP VIVA (HD)
+https://toranjatv.top:443/play/iXQ_y7Mk7BUNBEEuke0-jhRovUrE2ILo4HTkBm0nJkI
