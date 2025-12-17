@@ -1,0 +1,46 @@
+#EXTM3U
+
+# Generalistas / Notícias
+#EXTINF:-1 group-title="PORTUGAL",001 RTP 1 (FHD)
+http://example.com/rtp1_fhd
+#EXTINF:-1 group-title="PORTUGAL",101 RTP 1 (HD)
+http://example.com/rtp1_hd
+#EXTINF:-1 group-title="PORTUGAL",201 RTP 1 (LOW)
+http://example.com/rtp1_low
+
+#EXTINF:-1 group-title="PORTUGAL",002 RTP 2 (FHD)
+http://example.com/rtp2_fhd
+#EXTINF:-1 group-title="PORTUGAL",102 RTP 2 (HD)
+http://example.com/rtp2_hd
+#EXTINF:-1 group-title="PORTUGAL",202 RTP 2 (LOW)
+http://example.com/rtp2_low
+
+#EXTINF:-1 group-title="PORTUGAL",003 SIC (FHD)
+http://example.com/sic_fhd
+#EXTINF:-1 group-title="PORTUGAL",103 SIC (HD)
+http://example.com/sic_hd
+#EXTINF:-1 group-title="PORTUGAL",203 SIC (LOW)
+http://example.com/sic_low
+
+#EXTINF:-1 group-title="PORTUGAL",004 TVI (FHD)
+http://example.com/tvi_fhd
+#EXTINF:-1 group-title="PORTUGAL",104 TVI (HD)
+http://example.com/tvi_hd
+#EXTINF:-1 group-title="PORTUGAL",204 TVI (LOW)
+http://example.com/tvi_low
+
+# Desporto
+#EXTINF:-1 group-title="PORTUGAL | SPORTS",020 SPORT TV 1 (FHD)
+http://example.com/sporttv1_fhd
+#EXTINF:-1 group-title="PORTUGAL | SPORTS",120 SPORT TV 1 (HD)
+http://example.com/sporttv1_hd
+#EXTINF:-1 group-title="PORTUGAL | SPORTS",220 SPORT TV 1 (LOW)
+http://example.com/sporttv1_low
+
+# Cinema
+#EXTINF:-1 group-title="PORTUGAL | MOVIES",040 TV CINE TOP (FHD)
+http://example.com/tvcinetop_fhd
+
+# Infantil
+#EXTINF:-1 group-title="PORTUGAL | KIDS",060 CANAL PANDA
+http://example.com/canalpanda
